@@ -1,0 +1,3 @@
+# Bash Practice
+
+A set of directories and jpgs meant for students learning terminal commands. See if they can locate Carmen Sandiego...
